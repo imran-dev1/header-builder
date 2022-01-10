@@ -46,6 +46,7 @@ header section{
     text-decoration: none;
     padding:5px 10px;
     position: relative;
+    white-space: nowrap;;
 }
 .menu-items li a::after{
     content: "";
